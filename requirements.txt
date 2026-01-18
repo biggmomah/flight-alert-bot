@@ -1,0 +1,12 @@
+# Python packages needed for the Flight Alert Bot
+
+# Telegram bot library
+python-telegram-bot==20.7
+
+# HTTP requests library
+requests==2.31.0
+
+# For handling dates and times (built-in, but listing for clarity)
+# datetime - built-in
+# time - built-in
+# logging - built-in
